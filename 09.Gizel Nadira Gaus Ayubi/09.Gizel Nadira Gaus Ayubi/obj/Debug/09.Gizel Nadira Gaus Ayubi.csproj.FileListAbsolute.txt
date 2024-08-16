@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\obj\Debug\09.Gizel Nadira Gaus Ayubi.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\obj\Debug\09.Gizel Nadira Gaus Ayubi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\bin\Debug\09.Gizel Nadira Gaus Ayubi.exe.config
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\bin\Debug\09.Gizel Nadira Gaus Ayubi.exe
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\bin\Debug\09.Gizel Nadira Gaus Ayubi.pdb
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\obj\Debug\09.Gizel Nadira Gaus Ayubi.exe
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09.Gizel Nadira Gaus Ayubi\obj\Debug\09.Gizel Nadira Gaus Ayubi.pdb

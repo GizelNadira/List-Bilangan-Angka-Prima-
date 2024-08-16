@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\bin\Debug\09,Gizel.exe.config
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\bin\Debug\09,Gizel.exe
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\bin\Debug\09,Gizel.pdb
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\obj\Debug\09,Gizel.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\obj\Debug\09,Gizel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\obj\Debug\09,Gizel.exe
+C:\Users\DELL\Documents\09.Gizel Nadira Gaus Ayubi\09,Gizel\obj\Debug\09,Gizel.pdb
