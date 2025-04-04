@@ -1,4 +1,4 @@
-# [Kalkulator UKK]
+# [List Bilangan Angka Prima]
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
